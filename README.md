@@ -26,9 +26,8 @@ I'm Cristopher Marte, a recent Computer Engineering graduate from Columbia Unive
 #### Other Tools & Technologies
 [![Tech](https://skillicons.dev/icons?i=git,github,vscode,vim,bash,figma,linux,redhat,windows,apple)](https://skillicons.dev)
 
-
-
 ---
+
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/cmartema)
 - [Personal Website](https://cmartema.github.io/)
