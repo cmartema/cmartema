@@ -34,14 +34,15 @@ I'm Cristopher Marte, a recent Computer Engineering graduate from Columbia Unive
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 #### Other Tools & Technologies
+[![Backend](https://skillicons.dev/icons?i=git,github,vscode,vim,figma,linux)](https://skillicons.dev)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 ---
 ## Connect with me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/cmartema)
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-lightgrey?style=flat-square&link=https://yourwebsite.com)](https://cmartema.github.io/)
+- [![Personal Website]](https://cmartema.github.io/)
